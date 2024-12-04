@@ -49,3 +49,55 @@ This repository contains practical activities to enhance your knowledge and skil
 
 ### **5. JSP - II**
 1. Write a Java program to print the following pattern:
+
+
+# JDBC Practical - Database Operations
+
+This section contains practical activities focused on creating and querying databases using JDBC.
+
+---
+
+## **Practical Activities**
+
+1. **Create the Database and Enter Sample Data**
+   - Create a database with the following schema and sample data:
+     | **Column Name** | **Data Type**  |
+     |-----------------|---------------|
+     | `id`            | `int`         |
+     | `temp`          | `float`       |
+     | `city`          | `varchar`     |
+     | `precipitation` | `float`       |
+     | `wind`          | `int`         |
+     | `humidity`      | `float`       |
+     | `date`          | `date`        |
+
+     Sample data:
+     ```
+     id    temp    city    precipitation    wind       humidity     date
+     1     25.5    Mumbai  3.0              25 km/hr   20%          2016-04-18
+     ```
+
+2. **Query to Show the Highest Temperature**
+   - Retrieve the highest temperature for the city of Mumbai for the month of January 2016.
+   <a href="https://github.com/codewithz/ycmou_bca_jdbc_practicals/blob/master/src/main/java/com/codewithz/HighestTemperature.java">Link for Practical</a>
+
+3. **List Temperatures for Mumbai and Delhi**
+   - List the temperatures for the cities of Mumbai and Delhi, sorted by their humidity (from lowest to highest).
+
+4. **List Temperatures for Bangalore**
+   - Retrieve the temperatures for the city of Bangalore for the month of February 2016.
+
+5. **Show Days with Temperature Above 30°C**
+   - Display all days where the temperature was above 30°C. Use a `Set` to store and display the unique results.
+
+6. **List Temperatures by Precipitation for Bangalore**
+   - List the temperatures for the city of Bangalore, sorted by their precipitation (from highest to lowest).
+
+7. **Sort Temperatures by City Names**
+   - Sort the list of temperatures according to the names of the cities.
+
+---
+
+
+
+
