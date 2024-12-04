@@ -6,9 +6,9 @@ Welcome to the repository for JDBC, JSP, and Servlet practicals! This repository
 
 Find the detailed PDFs with explanations and guides below:
 
-- [JDBC Guide](link-to-jdbc-pdf)
-- [JSP Guide](link-to-jsp-pdf)
-- [Servlet Guide](link-to-servlet-pdf)
+- [JDBC Guide](https://github.com/codewithz/YCMOU-TYBCA-Advanced-Java-Resources/blob/main/JDBC.pdf)
+- [JSP Guide](https://github.com/codewithz/YCMOU-TYBCA-Advanced-Java-Resources/blob/main/JSP-Final.docx.pdf)
+- [Servlet Guide](https://github.com/codewithz/YCMOU-TYBCA-Advanced-Java-Resources/blob/main/SERVLET.pdf)
 
 ## 💻 Practical Code Examples
 
