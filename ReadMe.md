@@ -20,23 +20,23 @@ This repository contains practical activities to enhance your knowledge and skil
 
 ### **1. Servlet - I**
 1. Write a servlet to determine whether the number is prime or not. <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/PrimeNumberServlet.java">Link for Practical</a>
-2. Write a servlet to determine whether the entered name from the HTML form is a palindrome or not.<a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/PalindromeServler.java">Link for Practical</a>  <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/webapp/name.html">Link for HTML</a> 
+2. Write a servlet to determine whether the entered name from the HTML form is a palindrome or not.<a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/PalindromeServler.java">Link for Practical</a> |  <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/webapp/name.html">Link for HTML</a> 
 3. Write a servlet program to print all the even numbers between the two numbers entered by the user (e.g., user enters 5 and 500, so print even numbers between 5 and 500). <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/EvenNumberServlet.java">Link for Practical</a>
 
 ---
 
 ### **2. Servlet - II**
-1. Write a servlet program where a user enters a name in a form, and you send back the length of the name to them.
-2. Write an `HttpServlet` to accept the values for a table and insert them into it.
-3. Write a servlet to fetch the movie at ID 9.
+1. Write a servlet program where a user enters a name in a form, and you send back the length of the name to them.<a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/LengthServlet.java">Link for Practical</a> | <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/webapp/name-length.html">Link for HTML</a> 
+2. Write an `HttpServlet` to accept the values for a table and insert them into it. <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/InsertMovieServlet.java">Link for Practical</a> | <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/webapp/movie2.html">Link for HTML</a> 
+3. Write a servlet to fetch the movie at ID 9. <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/FetchMovieServlet.java">Link for Practical</a>
 4. Write a servlet to fetch all the movies released between 3rd Jan 2015 and 3rd Jan 2016.
 
 ---
 
 ### **3. Servlet - III**
-1. Write a servlet program to accept a number. If the number is even, redirect to `purplesq.com`; if the number is odd, redirect to `google.com`.
-2. Write a servlet program to redirect the request to another servlet, which requires a `String` as a parameter. The other servlet converts the string to lowercase.
-3. Write a Java program to get a name from an HTML form, store the name in a session, and redirect the flow to another servlet. The other servlet displays the name stored in the session.
+1. Write a servlet program to accept a number. If the number is even, redirect to `purplesq.com`; if the number is odd, redirect to `google.com`. <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/RedirectionServlet.java">Link for Practical</a>
+2. Write a servlet program to redirect the request to another servlet, which requires a `String` as a parameter. The other servlet converts the string to lowercase. <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/ForwardingServlet.java">Link for Practical</a>
+3. Write a Java program to get a name from an HTML form, store the name in a session, and redirect the flow to another servlet. The other servlet displays the name stored in the session. <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/AcceptNameServlet.java">Link for Practical 1 </a>  | <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/java/AnotherServlet.java">Link for Practical 2 </a>  |  <a href="https://github.com/codewithz/HindujaBCAPracticals/blob/master/src/main/webapp/name2.html">Link for HTML</a> 
 
 ---
 
