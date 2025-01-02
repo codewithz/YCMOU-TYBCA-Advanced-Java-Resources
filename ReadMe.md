@@ -98,6 +98,11 @@ This section contains practical activities focused on creating and querying data
 
 ---
 
+**Spring Core and MVC**
+   Repo Core: https://github.com/codewithz/hinduja-spring-core-app-jan-2025
+   Repo MVC:  https://github.com/codewithz/hinduja-spring-mvc-app-jan-205
+**Java Email**
+   https://github.com/codewithz/hinduja-java-email-jan-2025
 
 
 
