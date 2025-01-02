@@ -1,4 +1,13 @@
-# Practical Codes and Resources for JDBC, JSP, and Servlet
+# Practical Codes and Resources for JDBC, JSP, and Servlet, Java Email, Sprong MVC, Core and JSON
+
+**Spring Core and MVC** <br/>
+   Repo Core: https://github.com/codewithz/hinduja-spring-core-app-jan-2025<br/>
+   Repo MVC:  https://github.com/codewithz/hinduja-spring-mvc-app-jan-205<br/>
+**Java Email**<br/>
+   https://github.com/codewithz/hinduja-java-email-jan-2025<br/>
+** Java with JSON ** <br/>
+   https://www.youtube.com/watch?v=6oH0X2ueWMo&list=PLllOizrde1zKgv8JGADBTLIdPgncEzA7f
+
 
 Welcome to the repository for JDBC, JSP, and Servlet practicals! This repository contains useful resources and code examples to help you master these technologies.
 
@@ -98,11 +107,7 @@ This section contains practical activities focused on creating and querying data
 
 ---
 
-**Spring Core and MVC**
-   Repo Core: https://github.com/codewithz/hinduja-spring-core-app-jan-2025
-   Repo MVC:  https://github.com/codewithz/hinduja-spring-mvc-app-jan-205
-**Java Email**
-   https://github.com/codewithz/hinduja-java-email-jan-2025
+
 
 
 
